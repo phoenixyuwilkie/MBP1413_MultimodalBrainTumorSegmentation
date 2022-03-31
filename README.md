@@ -3,7 +3,7 @@ Project repo for class MBP1413 with team members: Phoenix Wilkie, Felix Menze, a
  \
 Figures_Tables_Splits is the folder that contains all of the figures that were generated, the csv files with data for analysis, and the exact splits of patient cases used for training and testing \
 &nbsp; The file structure used for this was: \
-&emsp;  MICCAI_BraTS_2018_Data_Training \
+&emsp;  MICCAI_BraTS_2018_Data_Training 
 ```
                   ├── test 
                           ├── HGG 
@@ -27,7 +27,7 @@ Figures_Tables_Splits is the folder that contains all of the figures that were g
  \
 cnn_model_per_slice is the folder containing all of the models from the cnn per T1w slice \
  \
-checkpoint has all the models from the pre-existing methods, this is found on OneDrive: \
+checkpoint has all the models from the pre-existing methods, this is found on OneDrive: 
 ```
         BraTs-master 
              |__ contains all the cnn code we made in cnnlearning-master along with some of the analysis files 
