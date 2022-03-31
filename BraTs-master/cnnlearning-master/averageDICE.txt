@@ -1,0 +1,23 @@
+run("unet", "HGG")
+Dice average: 0.5635143237969406
+
+run("unet", "LGG")
+Dice average: 0.5999425914039888
+
+run("pspnet_res50", "HGG")
+Dice average: 0.6558987141803764
+
+run("pspnet_res50", "LGG")
+Dice average: 0.6305752496204814
+
+run("pspnet_res34", "HGG")
+Dice average: 0.6513061833528414
+
+run("pspnet_res34", "LGG")
+Dice average: 0.6417818305813415
+
+run("pspnet_res18", "HGG")
+Dice average: 0.6511900892533643
+
+run("pspnet_res18", "LGG"
+Dice average: 0.6264017515735568
