@@ -24,9 +24,10 @@ Figures_Tables_Splits is the folder that contains all of the figures that were g
             └── patients
 
 cnn_model_per_slice is the folder containing all of the models from the cnn per T1w slice
+
 checkpoint has all the models from the pre-existing methods, this is found on OneDrive:
-BraTs-master
-|__ contains all the cnn code we made in cnnlearning-master along with some of the analysis files
-|__ it also contains all of the modified pre-existing model code in the pytorch folder - original code is in old_original_code
-     |__ output has all of the prediction output from testing for each model contained as images
-     |__ models contains the code used for each model that is run from train_2022 and test_2022 python scripts
+    BraTs-master
+    |__ contains all the cnn code we made in cnnlearning-master along with some of the analysis files
+    |__ it also contains all of the modified pre-existing model code in the pytorch folder - original code is in old_original_code
+         |__ output has all of the prediction output from testing for each model contained as images
+         |__ models contains the code used for each model that is run from train_2022 and test_2022 python scripts
