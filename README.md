@@ -1,5 +1,5 @@
 # MBP1413_MultimodalBrainTumorSegmentation
-Project repo for class MBP1413 with team members: Phoenix Wilkie, Felix Menze, and Katie Vandeloo.
+Project repo for class MBP1413 with team members: Phoenix Wilkie, Felix Menze, and Katie Vandeloo. \
  \
 Figures_Tables_Splits is the folder that contains all of the figures that were generated, the csv files with data for analysis, and the exact splits of patient cases used for training and testing \
 &nbsp; The file structure used for this was: \
