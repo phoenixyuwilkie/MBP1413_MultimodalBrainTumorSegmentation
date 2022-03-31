@@ -1,6 +1,8 @@
 # MBP1413_MultimodalBrainTumorSegmentation
 Project repo for class MBP1413 with team members: Phoenix Wilkie, Felix Menze, and Katie Vandeloo. \
- \
+\
+We ran out of space uploading everything to github so I couldn't commit from my terminal. \
+\
 This contains code we used and created with some figures and csv files for data analysis. The rest of the outputs and models are found on OneDrive. \
 \
 Figures_Tables_Splits is the folder that contains all of the figures that were generated, the csv files with data for analysis, and the exact splits of patient cases used for training and testing \
